@@ -1,0 +1,4 @@
+Tera,71,45877,checking,20.0
+Jam,234,359,savings,545.0,520,savings,456.0,1000,checking,500.0
+Yaco,23,7253,checking,10.0,721,savings,456.0
+Guy,5465,222,savings,1000.0
